@@ -1,0 +1,30 @@
+{
+  "name": "nlp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "corenlp-request-wrapper": "^1.0.3",
+    "micro": "^8.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "micro -p 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maomaoZH/nlp-api.git"
+  },
+  "keywords": [
+    "nlp",
+    "javascript",
+    "micro"
+  ],
+  "author": "Maomao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maomaoZH/nlp-api/issues"
+  },
+  "homepage": "https://github.com/maomaoZH/nlp-api#readme"
+}
